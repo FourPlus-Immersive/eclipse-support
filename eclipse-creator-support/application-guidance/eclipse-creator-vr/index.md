@@ -15,7 +15,7 @@ Eclipse Creator is a mixed-reality app for the delivery of hands-on technical la
 
 The SOP user interface allows the user to navigate between collections and SOPs.
 
-| | ![Eclipse Creator VR Licence Menu Icon](/_images/ec-vr-licence-menu-icon.png "Eclipse Creator VR licence menu icon") |  | License key |
+| | ![Eclipse Creator VR Licence Menu Icon](/_images/ec-vr-licencing-menu-icon.png "Eclipse Creator VR licence menu icon") |  | License key |
 | ![Eclipse Creator VR SOP Menu Icon](/_images/ec-vr-sop-menu-icon.png "Eclipse Creator VR sop menu icon") | SOPs |
 | ![Eclipse Creator VR Sync SOP Icon](/_images/ec-vr-sync-sop-icon.png "Eclipse Creator VR sync sop icon") | Refresh SOPs |
 | ![Eclipse Creator VR No Connection Icon](/_images/ec-vr-no-connection-icon.png "Eclipse Creator VR no connection icon") | Inactive connection to desktop app |
@@ -45,11 +45,11 @@ _Note: Pipette tips come within the dispenser category but these can be connecte
 
 **SOP User Interface**: The SOP user interface allows players to switch between Collections and SOPs within Collections, and tick steps off 1 by 1. SOP Collections can be refreshed by pressing the Refresh button.
 
-![Eclipse Creator VR SOP Interface](/_images/ec-vr-sop-interface.png "Eclipse Creator VR SOP interface")
+![Eclipse Creator VR SOP Interface](/_images/ec-vr-sop-interface.jpg "Eclipse Creator VR SOP interface")
 
 **Pop-Ups**: Instrument pop-ups provide information into it's properties. This includes: names of objects, temperatures, volumes, sterility, and consumable state. This information panel can be viewed by bringing your hand to an object.
 
-![Eclipse Creator VR Info Panel](/_images/ec-vr-info-panel.png "Eclipse Creator VR info panel")
+![Eclipse Creator VR Info Panel](/_images/ec-vr-info-panel.jpg "Eclipse Creator VR info panel")
 
 **Attachment**: When object interactions are possible, users will be shown a blue preview of the held object in the attached position. If an object can be placed on a surface space, the area will appear green and if not, it will appear red.
 

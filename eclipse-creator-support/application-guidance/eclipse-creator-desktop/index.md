@@ -1,11 +1,11 @@
 ---
-title: Eclipse SOP Creator Desktop
+title: Eclipse Creator Desktop
 menu_order: 1
 taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Eclipse SOP Creator Desktop
+# Eclipse Creator Desktop
 
 Eclipse SOP creator is a desktop app for the creation, customization and storage of SOPs or training content. In the SOP builder tab, protocols can be copy and pasted or manually typed, whilst in the layout tab users can choose from the library assets to populate the virtual laboratory. This section will outline the various controls used to navigate Eclipse Creator, along with sharing resources for user support. Below is a short tutorial video to help get you started:
 
