@@ -15,6 +15,8 @@ Eclipse Creator is a mixed-reality app for the delivery of hands-on technical la
 
 The SOP user interface allows the user to navigate between collections and SOPs.
 
+|   |   |
+|---|---|
 | | ![Eclipse Creator VR Licence Menu Icon](/_images/ec-vr-licencing-menu-icon.png "Eclipse Creator VR licence menu icon") |  | License key |
 | ![Eclipse Creator VR SOP Menu Icon](/_images/ec-vr-sop-menu-icon.png "Eclipse Creator VR sop menu icon") | SOPs |
 | ![Eclipse Creator VR Sync SOP Icon](/_images/ec-vr-sync-sop-icon.png "Eclipse Creator VR sync sop icon") | Refresh SOPs |
@@ -24,6 +26,8 @@ The SOP user interface allows the user to navigate between collections and SOPs.
 
 The hand menu gives users the options to reset app features or quit.
 
+|   |   |
+|---|---|
 | ![Eclipse Creator VR Recenter UI Icon](/_images/ec-vr-recenter-ui-icon.png "Eclipse Creator VR recenter UI icon") | Recenter SOP user interface |
 | ![Eclipse Creator VR Reset Orientation Icon](/_images/ec-vr-reset-orientation-icon.png "Eclipse Creator VR reset orientation icon") | Reset orientation |
 | ![Eclipse Creator VR Quit Icon](/_images/ec-vr-quit-icon.png "Eclipse Creator VR quit icon") | Quit app |

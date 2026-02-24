@@ -13,6 +13,8 @@ Eclipse SOP creator is a desktop app for the creation, customization and storage
 
 ## Controls/Symbols
 
+|   |   |
+|---|---|
 | ![Eclipse Creator Desktop Connection Off](/_images/ec-connection-off.png "Eclipse Creator Desktop connection off") | 
 Connection to headset is inactive (synchronization not possible). Headset may be in "sleep mode" or not connected over the same network. |
 | ![Eclipse Creator Desktop Connection On](/_images/ec-connection-on.png "Eclipse Creator Desktop connection on") | 
@@ -20,6 +22,8 @@ Connection to headset is active (synchronization possible). To connect, users mu
 
 ## Create new, edit and navigate through collections and SOPs
 
+|   |   |
+|---|---|
 | ![Eclipse Creator Desktop Collections Button](/_images/ec-collections.png "Eclipse Creator Desktop collections button") | Collections. These allow the user to categorize their SOPs. |
 | ![Eclipse Creator Desktop SOP List Button](/_images/ec-sop-list.png "Eclipse Creator Desktop SOP listbutton") | SOP list. |
 | ![Eclipse Creator Desktop Export Button](/_images/ec-export.png "Eclipse Creator Desktop export button") | Export a collection. Save your collections under a JSON file format. You may wish to do this in order to save/share them or to organize as files within your PC. |
@@ -27,12 +31,16 @@ Connection to headset is active (synchronization possible). To connect, users mu
 
 ## Toggle between editing protocol SOP steps and building a lab layout
 
+|   |   |
+|---|---|
 | ![Eclipse Creator Desktop SOP Steps Button](/_images/ec-sop-steps.png "Eclipse Creator Desktop sop steps button") | SOP protocol steps editor menu |
 | ![Eclipse Creator Desktop Layout Edit Button](/_images/ec-layout-editor.png "Eclipse Creator Desktop layout edit button") | Layout editor menu  |
 | ![Eclipse Creator Desktop Clear Grid Button](/_images/ec-sop-steps.png "Eclipse Creator Desktop clear grid button") | Clear the grid  |
 
 ## Click on the object placed in the SOP layout to see these options and features
 
+|   |   |
+|---|---|
 | ![Eclipse Creator Desktop Dispenser Icon](/_images/ec-dispenser.png "Eclipse Creator Desktop dispenser icon") | Dispenser (blue if dispenser). Dispensers offer unlimited supply of a consumable. These consumables are portable once released from a dispenser. |
 | ![Eclipse Creator Desktop Portable Icon](/_images/ec-portable.png "Eclipse Creator Desktop portable icon") | Portable (green if portable). Small instruments and vessels may be portable in headset and so the user can reposition them. |
 | ![Eclipse Creator Desktop Delete Asset Button](/_images/ec-delete-asset.png "Eclipse Creator Desktop delete asset button") | Delete Asset |
