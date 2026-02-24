@@ -7,7 +7,7 @@ taxonomy:
 
 Eclipse Creator is a mixed-reality app for the delivery of hands-on technical laboratory training. Following the creation of SOPs/protocols using the desktop app, Eclipse Creator can be loaded in headset and both the instructional content and objects overlaid onto a real-world environment. This will guide trainees through protocols whilst allowing minimally restricted interaction with devices, equipment and consumables. Below is a short tutorial video to help get you started:
 
-![Eclipse Creator VR Tutorial](https://www.youtube.com/watch?v=mf7EQQI9ALA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mf7EQQI9ALA?si=huxhfKlhWOegKZXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Controls/Symbols
 
