@@ -5,11 +5,13 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
+# Eclipse Creator Desktop
+
 Eclipse Creator is a desktop app for the creation, customization and storage of SOPs or training content. In the SOP builder tab, protocols can be copy and pasted or manually typed, whilst in the layout tab users can choose from the library assets to populate the virtual laboratory. This section will outline the various controls used to navigate Eclipse Creator, along with sharing resources for user support. Below is a short tutorial video to help get you started:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cO5zo4jYbww?si=yWqmQectOFGCqTqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Controls/Symbols
+## Controls/Symbols~~~~
 
 |   |   |
 |---|---|

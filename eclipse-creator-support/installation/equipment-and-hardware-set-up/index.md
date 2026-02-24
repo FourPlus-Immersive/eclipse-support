@@ -5,6 +5,8 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
+# Equipment & Hardware Set Up
+
 ## Device applicability
 
 - FourPlus currently offers 3 applications to be experienced on VR and PC. All are currently compatible with Meta Quest 2, 3 and Pro headsets (Meta Quest 2 + devices). 

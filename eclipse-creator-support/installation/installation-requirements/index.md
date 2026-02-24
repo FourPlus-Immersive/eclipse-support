@@ -5,6 +5,8 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
+# Applications Installation Requirements
+
 In order to install applications users will require:
 
 - Desktop or laptop with Windows or Mac operating system and an internet connection (Eclipse Creator desktop app only).

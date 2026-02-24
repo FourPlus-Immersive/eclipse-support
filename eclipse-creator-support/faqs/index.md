@@ -5,6 +5,8 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
+# FAQs
+
 ## Security
 
 ### Is client SOP/protocol data stored in the cloud?

@@ -1,9 +1,12 @@
 ---
-title: Eclipse Creator VR app installation
+title: Eclipse Creator VR App Installation
 menu_order: 5
 taxonomy:
     doc_category: eclipse-creator-support
 ---
+
+# Eclipse Creator VR App Installation
+
 ## Set up of new VR headsets (Meta Quest)
 
 *This step is best performed at home or on a private unrestricted network rather than a public network (university campus, school or college network).*

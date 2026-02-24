@@ -5,6 +5,8 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
+# Installation of Eclipse Creator Desktop
+
 Below is a guide for the installation of the Eclipse Creator desktop app.
 
 On your desktop/laptop, navigate to the webpage [here](https://eclipsecreator.com/fourplus-vr-training-download/):
