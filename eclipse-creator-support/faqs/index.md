@@ -5,8 +5,6 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# FAQs
-
 ## Security
 
 ### Is client SOP/protocol data stored in the cloud?
@@ -35,7 +33,7 @@ Ensure both are connected to the same network. Both apps will show they are conn
 
 Headset should be reconnected to the same network as the Eclipse Creator desktop app. If the error code continues to appear, ensure you are on the most current version of the desktop app or update it.
 
-### I am connected to the institution's network but headset and desktop are not syncing - *Failed cache and syncing
+### I am connected to the institution's network but headset and desktop are not syncing:  Failed to sync and load cached data, loaded default SOP data.
 
 Check you are connected to the **same** network on **both** the desktop and headset apps. Alternatively, if you are using a network with strict security blockers (e.g. Eduroam) it may be worth speaking to IT about the network blocking synchronisation. If you require information on the software architecture to see how the network may be blocking the devices, contact FourPlus admin team directly.
 
@@ -113,6 +111,6 @@ No you cannot toggle pass-through with the current applications because they are
 
 Both applications require at least a 2 x 2m floor space to be experienced safely and with full effectiveness.
 
-### Eclipse Creator - When performing group training, my virtual laboratory space keeps intersecting with the walls/other users areas
+### Eclipse Creator - When performing group training, my virtual laboratory space keeps intersecting with the walls/other users areas.
 
 Try repositioning your space using the Reset Orientation option via the hand menu in headset. Alternatively, quit the games and redraw your roomscale boundaries to roughly 2.5m x 2.5m of space or more, ensuring multiple user play spaces do not overlap.

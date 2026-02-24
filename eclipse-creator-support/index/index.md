@@ -5,8 +5,6 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-## Index.
-
 **Assets**: Assets include: Devices, Furniture, Equipment, Consumables, Apparatus and Objects. 
 
 **SOPs**: Standard Operating Procedures.

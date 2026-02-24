@@ -5,8 +5,6 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Application Guidance
-
 This section served to provide up to date application guidance for the use of our applications including:
 
 [Eclipse Creator Desktop](/eclipse-creator-desktop/index.md)

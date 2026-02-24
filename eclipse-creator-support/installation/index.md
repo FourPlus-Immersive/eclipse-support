@@ -5,8 +5,6 @@ taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Installation.
-
 [Equipment & Hardware Set Up](../installation/equipment-and-hardware-set-up/index.md)
 
 [Application Installation Requirements](../installation/installation-requirements/index.md)
