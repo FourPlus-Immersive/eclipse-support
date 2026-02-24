@@ -15,10 +15,8 @@ Eclipse SOP creator is a desktop app for the creation, customization and storage
 
 |   |   |
 |---|---|
-| ![Eclipse Creator Desktop Connection Off](/_images/ec-connection-off.png "Eclipse Creator Desktop connection off") | 
-Connection to headset is inactive (synchronization not possible). Headset may be in "sleep mode" or not connected over the same network. |
-| ![Eclipse Creator Desktop Connection On](/_images/ec-connection-on.png "Eclipse Creator Desktop connection on") | 
-Connection to headset is active (synchronization possible). To connect, users must connect to the same network and open the Eclipse app in headset. |
+| ![Eclipse Creator Desktop Connection Off](/_images/ec-connection-off.png "Eclipse Creator Desktop connection off") | Connection to headset is inactive (synchronization not possible). Headset may be in "sleep mode" or not connected over the same network. |
+| ![Eclipse Creator Desktop Connection On](/_images/ec-connection-on.png "Eclipse Creator Desktop connection on") | Connection to headset is active (synchronization possible). To connect, users must connect to the same network and open the Eclipse app in headset. |
 
 ## Create new, edit and navigate through collections and SOPs
 
