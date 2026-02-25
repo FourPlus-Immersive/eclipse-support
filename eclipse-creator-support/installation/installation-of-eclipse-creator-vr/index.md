@@ -1,11 +1,11 @@
 ---
-title: Eclipse Creator VR App Installation
+title: Eclipse Creator VR Installation
 menu_order: 5
 taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Eclipse Creator VR App Installation
+# Eclipse Creator VR Installation
 
 ## Set up of new VR headsets (Meta Quest)
 
@@ -32,9 +32,9 @@ taxonomy:
 
 *We recommend operating with passthrough mode on to perform software installations. This allows a view of a laptop screen and license code without the need to constantly remove and replace the headset, which can be uncomfortable/time consuming.*
 
-If you require any additional assistance with setting up your Meta Quest headset visit https://www.meta.com/en-gb/help/quest/
+If you require any additional assistance with setting up your Meta Quest headset visit [Meta](https://www.meta.com/en-gb/help/quest/).
 
-## Eclipse Creator VR app installation to headset
+## Eclipse Creator VR installation to headset
 
 Below is a guide for the installation of the Eclipse Creator app to Meta headset.
 
@@ -48,7 +48,7 @@ Below is a guide for the installation of the Eclipse Creator app to Meta headset
 
 ![Eclipse Creator VR Installation 2](/_images/ec-vr-installation-2.jpg "Eclipse Creator VR Installation 2")
 
-## Eclipse Creator VR app installation using the license key
+## Eclipse Creator VR installation using the license key
 
 *Access to content will be limited until customers have been supplied with their license key. However there is a FREE demo that can be accessed prior to this. To gain full access to the full content, you will need to enter your Eclipse Creator license key in the app. This key will be assigned personally and is unique to your institution, so it must not be shared.  When inputting this key while wearing the VR headsets, it is advised to first copy the key into a blank word document. For ease of reading you should size to 24+ font and insert dashes every fifth digit (e.g. XXXXX-XXXXX-XXXXX-XXXXX-XXXXX). If you are not operating in passthrough mode, switch pass through on via the settings menu. Now you should be able to see your laptop screen and no longer need to remove/replace the headset to read the license key.*
 

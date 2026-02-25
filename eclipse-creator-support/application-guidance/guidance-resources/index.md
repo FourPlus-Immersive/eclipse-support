@@ -11,7 +11,7 @@ Pre-Installed in the Eclipse Creator app you will find a Eclipse Creator Tutoria
 
 Several resources to support your experience using Eclipse Creator can be found on the website: 
 
-~~~~[Eclipse Creator - Build your own virtual training courses](https://eclipsecreator.com/)
+[Eclipse Creator - Build your own virtual training courses](https://eclipsecreator.com/)
 
 These include: 
 - Tutorials (Eclipse Creator and Eclipse SOP Creator)
