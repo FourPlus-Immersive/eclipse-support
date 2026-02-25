@@ -13,6 +13,6 @@ This section served to provide up-to-date application guidance for the use of ou
 
 [Eclipse Creator VR](./application-guidance/eclipse-creator-vr/)
 
-In addition, users can access additional guidance resources, such as webinars, tutorials and FAQs directly from here:
+In addition, users can access additional guidance resources, such as webinars, tutorials, and FAQs directly from here:
 
 [Resources](./application-guidance/guidance-resources/)

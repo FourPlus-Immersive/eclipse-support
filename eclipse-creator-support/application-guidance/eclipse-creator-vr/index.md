@@ -33,24 +33,24 @@ The hand menu gives users the options to reset app features or quit.
 
 ## Feature Notes
 
-**Boundary**: Player boundaries must be created in the VR headset and refers to a safe area in which Eclipse Creator can be experienced. The headset should request that this is set prior to launching the application.
+**Boundary**: Player boundaries must be created in the VR headset and refers to a safe area in which Eclipse Creator can be experienced. The headset should request that this is set before launching the application.
 
 **Space Orientation**: Users can use the reorientate function to set the center of their play space and adjust their orientation.
 
-**Dispensers**:  Single-use consumables and boxes of pipettes/vials come in the form of a boxed dispenser. This means that they hold indefinite numbers of that asset. The assets can be accessed by either pinching or grabbing at the box.
+**Dispensers**: Single-use consumables and boxes of pipettes/vials come in the form of a boxed dispenser. This means that they hold indefinite numbers of that asset. The assets can be accessed by either pinching or grabbing at the box.
 
 ![Eclipse Creator VR Assets](/_images/ec-vr-features-assets.png "Eclipse Creator VR assets")
 
-_Note: Pipette tips come within the dispenser category but these can be connected to the pipette in the same way in which you would in the laboratory, by pressing the device into the box._
+_Note: Pipette tips come within the dispenser category but these can be connected to the pipette in the same way in which you would in the laboratory, by pressing the device into the box.
 
-**Interactions**: Asset interactions include: grabbing, pinching, connecting, ejecting, withdrawing, spraying etc. In order to visually understand how interactions are performed, we highly recommend you access the tutorial either via our website or via email. 
+**Interactions**: Asset interactions include: grabbing, pinching, connecting, ejecting, withdrawing, spraying etc. To understand how interactions are performed, we highly recommend you access the tutorial either via our website or via email. 
 
 
 **SOP User Interface**: The SOP user interface allows players to switch between Collections and SOPs within Collections, and tick steps off 1 by 1. SOP Collections can be refreshed by pressing the Refresh button.
 
 ![Eclipse Creator VR SOP Interface](/_images/ec-vr-sop-interface.jpg "Eclipse Creator VR SOP interface")
 
-**Pop-Ups**: Instrument pop-ups provide information into it's properties. This includes: names of objects, temperatures, volumes, sterility, and consumable state. This information panel can be viewed by bringing your hand to an object.
+**Pop-Ups**: Instrument pop-ups provide information about its properties. This includes: names of objects, temperatures, volumes, sterility, and consumable state. This information panel can be viewed by bringing your hand to an object.
 
 ![Eclipse Creator VR Info Panel](/_images/ec-vr-info-panel.jpg "Eclipse Creator VR info panel")
 

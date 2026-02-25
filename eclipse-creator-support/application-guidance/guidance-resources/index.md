@@ -7,7 +7,7 @@ taxonomy:
 
 # Guidance Resources
 
-Pre-Installed in the Eclipse Creator app you will find a Eclipse Creator Tutorial module. This functions to establish both the scope of the application as well as some initial techniques for interacting with equipment.  
+Pre-Installed in the Eclipse Creator app you will find a Eclipse Creator Tutorial module. This functions to establish both the scope of the application and some initial techniques for interacting with equipment.  
 
 Several resources to support your experience using Eclipse Creator can be found on the website: 
 
