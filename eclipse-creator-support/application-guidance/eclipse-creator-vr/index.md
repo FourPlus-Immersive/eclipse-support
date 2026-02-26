@@ -26,12 +26,11 @@ To enter the licence, use the navigation buttons at the bottom of the interface 
 
 Most of the menus are contained within the main interface. This is a 3D UI that you can grab and reposition around the play area. The following is a navigation map:
 
-| Button                                                                                                                   | Menu                | Purpose                                                        |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------|
-| ![Eclipse Creator VR SOP Menu Icon](/_images/ec-vr-sop-menu-icon.png "Eclipse Creator VR SOP menu icon")                 | SOP Interface       | Choose Collection/SOP, progress current SOP, view sync status. |
-| ![Eclipse Creator VR Licence Menu Icon](/_images/ec-vr-licencing-menu-icon.png "Eclipse Creator VR licensing menu icon") | Licensing Interface | Enter a licence, see licence state.                            |
-| ![Eclipse Creator VR Settings Menu Icon](/_images/ec-vr-settings-menu-icon.png "Eclipse Creator VR settings menu icon")  | Settings            | Customise the app experience.                                  |
-
+| Button                                                                    | Menu                | Purpose                                                        |
+|---------------------------------------------------------------------------|---------------------|----------------------------------------------------------------|
+| <img src="/_images/ec-vr-sop-menu-icon.png" width="80" height="80">       | SOP Interface       | Choose Collection/SOP, progress current SOP, view sync status. |
+| <img src="/_images/ec-vr-licencing-menu-icon.png" width="80" height="80"> | Licensing Interface | Enter a licence, see licence state.                            |
+| <img src="/_images/ec-vr-settings-menu-icon.png" width="80" height="80">  | Settings            | Customise the app experience.                                  |
 
 **SOP Interface**: Use this interface to select a Collection & SOP for training. The upper dropdown menu allows selecting a Collection, and once selected, the lower dropdown menu can be used to select a SOP. Once selected, the virtual laboratory will initialise and training can begin. This interface also shows the current SOP step and provides a navigation menu to move between the current SOP steps. The user can use the complete button to mark the current step of the SOP as complete and increment their training progress.
 
@@ -54,6 +53,7 @@ Most of the menus are contained within the main interface. This is a 3D UI that 
 - Current SOP step instructions & SOP progress
 - SOP navigation menu (same as SOP Interface)
 - App function menu
+
 You may use this menu as an alternative to navigate the current SOP, to read steps and mark them as complete as training is progressed. The additional functions are as follows:
 
 | Button                                                                                                                              | Function                                    |
