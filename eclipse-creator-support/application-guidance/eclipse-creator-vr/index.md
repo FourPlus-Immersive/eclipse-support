@@ -36,12 +36,12 @@ Most of the menus are contained within the main interface. This is a 3D UI that 
 
 ![Eclipse Creator VR SOP Interface](/_images/ec-vr-sop-interface.png "Eclipse Creator VR SOP interface")
 
-| Button                                                                                                                            | Function                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| ![Eclipse Creator VR Replay Audio Icon](/_images/ec-vr-replay-audio-icon.png "Eclipse Creator VR replay TTS icon")                | Replay Text to Voice readout for current step. |
-| ![Eclipse Creator VR Go To Previous Step Icon](/_images/ec-vr-previous-step-icon.png?v=2 "Eclipse Creator VR previous step icon") | Navigate to the previous SOP Step.             |
-| ![Eclipse Creator VR Go To Next Step Icon](/_images/ec-vr-next-step-icon.png "Eclipse Creator VR next step icon")                 | Navigate to the previous SOP Step.             |
-| ![Eclipse Creator VR Complete Step Icon](/_images/ec-vr-complete-step-icon.png "Eclipse Creator complete step icon")              | Complete current SOP Step.                     |
+| Button                                                                                                                        | Function                                       |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| ![Eclipse Creator VR Replay Audio Icon](/_images/ec-vr-replay-audio-icon.png "Eclipse Creator VR replay TTS icon")            | Replay Text to Voice readout for current step. |
+| ![Eclipse Creator VR Go To Previous Step Icon](/_images/ec-vr-previous-step-icon.png "Eclipse Creator VR previous step icon") | Navigate to the previous SOP Step.             |
+| ![Eclipse Creator VR Go To Next Step Icon](/_images/ec-vr-next-step-icon.png "Eclipse Creator VR next step icon")             | Navigate to the previous SOP Step.             |
+| ![Eclipse Creator VR Complete Step Icon](/_images/ec-vr-complete-step-icon.png "Eclipse Creator complete step icon")          | Complete current SOP Step.                     |
 
 | Status                                                                                                                               | Meaning                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
