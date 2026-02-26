@@ -28,9 +28,9 @@ Most of the menus are contained within the main interface. This is a 3D UI that 
 
 | Button                                                                    | Menu                | Purpose                                                        |
 |---------------------------------------------------------------------------|---------------------|----------------------------------------------------------------|
-| <img src="ec-vr-sop-menu-icon.png" width="80" height="80">       | SOP Interface       | Choose Collection/SOP, progress current SOP, view sync status. |
-| <img src="ec-vr-licencing-menu-icon.png" width="80" height="80"> | Licensing Interface | Enter a licence, see licence state.                            |
-| <img src="ec-vr-settings-menu-icon.png" width="80" height="80">  | Settings            | Customise the app experience.                                  |
+| <img src="/_images/ec-vr-sop-menu-icon.png" width="80" height="80">       | SOP Interface       | Choose Collection/SOP, progress current SOP, view sync status. |
+| <img src="/_images/ec-vr-licencing-menu-icon.png" width="80" height="80"> | Licensing Interface | Enter a licence, see licence state.                            |
+| <img src="/_images/ec-vr-settings-menu-icon.png" width="80" height="80">  | Settings            | Customise the app experience.                                  |
 
 **SOP Interface**: Use this interface to select a Collection & SOP for training. The upper dropdown menu allows selecting a Collection, and once selected, the lower dropdown menu can be used to select a SOP. Once selected, the virtual laboratory will initialise and training can begin. This interface also shows the current SOP step and provides a navigation menu to move between the current SOP steps. The user can use the complete button to mark the current step of the SOP as complete and increment their training progress.
 
