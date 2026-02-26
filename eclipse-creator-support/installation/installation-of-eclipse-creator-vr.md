@@ -26,7 +26,7 @@ taxonomy:
 
 - To connect to a new network, click on Wi-Fi and select it under the Wi-Fi menu on the headset. 
 - Once an internet connection has been established, the headsets will update.
-- Once complete, you can set up you user profiles and begin using the headsets normally.
+- Once complete, you can set up your user profiles and begin using the headsets normally.
 - Connect the headsets to the Meta Quest app on your phone, using the in-VR instructions. 
 - Once set up, you can enter/disable passthrough mode by tapping on the side of the headset twice. You want to enable passthrough mode so that you can see your surroundings upon app installation.
 
@@ -48,12 +48,12 @@ Below is a guide for the installation of the Eclipse Creator app to Meta headset
 
 ![Eclipse Creator VR Installation 2](../_images/ec-vr-installation-2.jpg "Eclipse Creator VR Installation 2")
 
-## Eclipse Creator VR installation using the license key
+## Eclipse Creator VR installation using the licence key
 
-*Access to content will be limited until customers have been supplied with their license key. However there is a FREE demo that can be accessed prior to this. To gain full access to the full content, you will need to enter your Eclipse Creator license key in the app. This key will be assigned personally and is unique to your institution, so it must not be shared.  When inputting this key while wearing the VR headsets, it is advised to first copy the key into a blank word document. For ease of reading you should size to 24+ font and insert dashes every fifth digit (e.g. XXXXX-XXXXX-XXXXX-XXXXX-XXXXX). If you are not operating in passthrough mode, switch pass through on via the settings menu. Now you should be able to see your laptop screen and no longer need to remove/replace the headset to read the license key.*
+*Access to content will be limited until customers have been supplied with their licence key. However, there is a FREE demo that can be accessed prior to this. To gain full access to the full content, you will need to enter your Eclipse Creator licence key in the app. This key will be assigned personally and is unique to your institution, so it must not be shared.  When inputting this key while wearing the VR headsets, it is advised to first copy the key into a blank Word document. For ease of reading you should size to 24+ font and insert dashes every fifth digit (e.g. XXXXX-XXXXX-XXXXX-XXXXX-XXXXX). If you are not operating in passthrough mode, switch pass through on via the settings menu. Now you should be able to see your laptop screen and no longer need to remove/replace the headset to read the licence key.*
 
 ![Eclipse Creator VR Licence Entry](../_images/ec-vr-licence-entry.jpg "Eclipse Creator VR licence entry")
 
-- Once the license has been accepted, you will be able to run the app. If the network set up has been performed correctly, the SOPs loaded into the Eclipse Creator desktop app should reflect those loaded in the headset app and automatically sync.
+- Once the licence has been accepted, you will be able to run the app. If the network set up has been performed correctly, the SOPs loaded into the Eclipse Creator desktop app should reflect those loaded in the headset app and automatically sync.
 
-**If you experience any problems when trying to install or update the VR app then visit our [FAQs](/faqs/index.md).**
+**If you experience any problems when trying to install or update the VR app then visit our [FAQs](faqs.md).**
