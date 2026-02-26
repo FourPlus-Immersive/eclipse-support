@@ -11,8 +11,8 @@ taxonomy:
 
 - FourPlus currently offers 3 applications to be experienced on VR and PC. All are currently compatible with Meta Quest 2, 3 and Pro headsets (Meta Quest 2 + devices). 
 - Proteus is a free application so does not require payment or a license to access. 
-- For additional guidance installing paid, licensed applications Accelerate and Eclipse Creator to headset click [here](installation-of-eclipse-creator-vr/installation-of-eclipse-creator-vr.md). 
-- For additional guidance installing paid, licensed application Eclipse SOP Creator desktop app (coupled with Eclipse Creator VR app) click [here](installation-of-eclipse-creator-desktop/installation-of-eclipse-creator-desktop.md).
+- For additional guidance installing paid, licensed applications Accelerate and Eclipse Creator to headset, click [here](installation-of-eclipse-creator-vr.md). 
+- For additional guidance installing paid, licensed application Eclipse SOP Creator desktop app (coupled with Eclipse Creator VR app) click [here](installation-of-eclipse-creator-desktop.md).
 
 ## FourPlus on Meta Quest
 
