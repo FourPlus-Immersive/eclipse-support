@@ -104,8 +104,8 @@ Eclipse Creator is designed to be a controller-free experience that utilises han
 
 **Temperature**: Liquids and liquid containers, as well as certain other assets, carry a temperature value. This value can be altered by heating, centrifuging, freezing, refrigerating, or thawing the item. Temperature is maintained when not actively being altered to allow the user to practice in confidence and not impose time limits on them.
 
-**Fluids**: Eclipse Creator features a wide array of liquids and powders. These can be mixed inside containers via various liquid transfer methods, such a pouring, pumping, or pipetting. Use the info panel to see the contents of a container. Fluids also have temperature and pH values which can be measured.
+**Fluids**: Eclipse Creator features a wide array of liquids and powders. These can be mixed inside containers via various liquid transfer methods, such as pouring, pumping, or pipetting. Use the info panel to see the contents of a container. Fluids also have temperature and pH values which can be measured.
 
-**Consumable**: Some items have a certain number of uses, commonly as single-use items. This is reflected in the info panel. In some cases a user may be prevented from using a consumable item more than once.
+**Consumables**: Some items have a certain number of uses, commonly as single-use items. This is reflected in the info panel. In some cases a user may be prevented from using a consumable item more than once.
 
-**Disposal**: Lots of items are disposable and can be placed in various bins. These tend to come in dispensers to users may replace them as needed.
+**Disposables**: Lots of items are disposable and can be placed in various bins. These tend to come in dispensers to users may replace them as needed.
