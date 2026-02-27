@@ -47,7 +47,7 @@ Copyright &copy; 2026 FourPlus Immersive
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Eclipse Creator Support" = "eclipse-creator-support.md" },
+    { "Eclipse Creator Support" = "index.md" },
     { "General Guidance" = "general-guidance.md" },
     { "Glossary" = "glossary.md" },
     { "Installation" = [
