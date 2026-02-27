@@ -1,11 +1,11 @@
 ---
-title: Index
+title: Glossary
 menu_order: 5
 taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Index
+# Glossary
 
 **Eclipse Creator Desktop**: Desktop application for creating custom SOPs.
 
