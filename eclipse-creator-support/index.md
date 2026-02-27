@@ -7,18 +7,14 @@ taxonomy:
 
 # Index
 
-**Assets**: Assets include: Devices, Furniture, Equipment, Consumables, Apparatus and Objects. 
+**Eclipse Creator Desktop**: Desktop application for creating custom SOPs.
+
+**Eclipse Creator VR**: Virtual Reality application that pairs with Eclipse Creator Desktop to practice SOP training.
 
 **SOPs**: Standard Operating Procedures.
 
-**Collections**: An organized group of SOPs.
+**Collection**: A set of SOPs.
 
-**License key**: key made of letters and numbers which allows you to access Eclipse Creator content.
+**Assets**: Assets include: Devices, Furniture, Equipment, Consumables, Apparatus and Objects.
 
-**Boundary**: A safe play perimeter as set through the meta menu.
-
-**JSON**: A file through which your SOPs are stored.
-
-**Dispenser**: A box containing unlimited supply of an asset.
-
-**User Interface**: A menu selection panel in Eclipse Creator which the user can freely interact with. 
+**Licence key**: key made of letters and numbers which allows you to access Eclipse Creator content.
