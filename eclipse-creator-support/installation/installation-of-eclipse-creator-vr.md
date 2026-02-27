@@ -73,10 +73,13 @@ Eclipse Creator requires an active internet connection to be launched. If you do
 
 ## Entering your licence key
 
-Access to content will be limited until customers have been supplied with their licence key. However, there is a FREE demo that can be accessed prior to this. To gain full access to the full content, you will need to enter your Eclipse Creator licence key in the app. This key will be assigned personally and is unique to your institution, so it must not be shared.  When inputting this key while wearing the VR headsets, it is advised to first copy the key into a blank Word document. For ease of reading, you should size to 24+ font and insert dashes every fifth digit (e.g. XXXXX-XXXXX-XXXXX-XXXXX-XXXXX). If you are not operating in passthrough mode, switch pass through on via the settings menu. Now you should be able to see your laptop screen and no longer need to remove/replace the headset to read the licence key.
+Access to full app functionality will be limited until a valid licence has been entered. Enter your Eclipse Creator licence in the Licensing menu through the main interface. Refer to the [application guidance](../application-guidance/eclipse-creator-vr.md) for more information on how to navigate through the VR app.
+Your Eclipse Creator licence key is unique to your institution, so it must not be shared.  When inputting this key while wearing the VR headsets, it is advised to first copy the key into a blank text document and size up the font until you can read it comfortably while in passthrough.
 
 ![Eclipse Creator VR Licence Entry](../_images/ec-vr-licence-entry.jpg "Eclipse Creator VR licence entry")
 
-- Once the licence has been accepted, you will be able to run the app. If the network set up has been performed correctly, the SOPs loaded into the Eclipse Creator desktop app should reflect those loaded in the headset app and automatically sync.
+Once the licence has been validated, you will be able to experience all the features of Eclipse Creator. If the network set up has been performed correctly, the Collections present in Eclipse Creator Desktop should reflect those loaded in the VR app and automatically sync.
+
+>Note: expired licences will return as Invalid. Contact FourPlus to extend your licence.
 
 **If you experience any problems when trying to install or update the VR app, then visit our [FAQs](faqs.md).**
