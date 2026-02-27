@@ -49,7 +49,7 @@ Copyright &copy; 2026 FourPlus Immersive
 nav = [
     { "Eclipse Creator Support" = "eclipse-creator-support.md" },
     { "General Guidance" = "general-guidance.md" },
-    { "Index" = "index.md" },
+    { "Glossary" = "glossary.md" },
     { "Installation" = [
         "installation/installation-requirements.md",
         "installation/equipment-and-hardware-setup.md",
