@@ -99,3 +99,15 @@ To start, choose an appropriate work surface such as a laboratory table, an MSC 
 **Orientation**: Certain instruments have arrows depicting their forward direction.
 
 ![Eclipse Creator Desktop Asset Orientation](../_images/ec-orientation.png "Eclipse Creator Desktop asset orientation")
+
+## Training Sessions
+
+Training sessions are logged when a user marks the final step of an SOP as Complete. SOPs with no defined steps will not be recorded. To view training session entries, click the Training Sessions button in the sidebar.
+
+![Eclipse Creator Desktop Training Sessions Navigation](../_images/ec-sidebar-training-sessions.png "Eclipse Creator Desktop Training Sessions navigation")
+
+To view your training session entries, you must enter the Eclipse Creator VR licence. Training sessions are associated with VR licences.
+
+![Eclipse Creator Desktop VR Licence Entry Training Sessions](../_images/ec-vr-licence-entry-training-sessions.png "Eclipse Creator Desktop VR Licence entry for training sessions")
+
+Trainees should set their name in the Eclipse Creator VR Settings menu before engaging with training. This is required for the training session records to be attributed correctly.
