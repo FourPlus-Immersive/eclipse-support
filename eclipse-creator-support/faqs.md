@@ -110,10 +110,10 @@ Uninstall the application and the data associated with it will be permanently de
 
 No, you cannot toggle pass-through with the current applications because they are either 100% VR or 100% MR/AR.
 
-### What size play/floor space is required for Eclipse Creator?
+### What size play/floor space is required for Eclipse XR?
 
 Both applications require at least a 2 m x 2 m floor space to be experienced safely and with full effectiveness.
 
-### Eclipse Creator - When performing group training, my virtual laboratory space keeps intersecting with the walls/other users areas.
+### Eclipse XR - When performing group training, my virtual laboratory space keeps intersecting with the walls/other users areas.
 
 Try repositioning your space using the Reset Orientation option via the hand menu in headset. Alternatively, quit the app and redraw your room-scale boundaries to roughly 2.5 m x 2.5 m of space or more, ensuring multiple user play spaces do not overlap.

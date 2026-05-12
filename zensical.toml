@@ -54,12 +54,12 @@ nav = [
         "installation/installation-requirements.md",
         "installation/equipment-and-hardware-setup.md",
         "installation/installation-process-introduction.md",
-        "installation/installation-of-eclipse-creator-desktop.md",
-        "installation/installation-of-eclipse-creator-vr.md",
+        "installation/installation-of-eclipse-creator.md",
+        "installation/installation-of-eclipse-xr.md",
         ]},
     { "Application Guidance" = [
-        "application-guidance/eclipse-creator-desktop.md",
-        "application-guidance/eclipse-creator-vr.md",
+        "application-guidance/eclipse-creator.md",
+        "application-guidance/eclipse-xr.md",
         "application-guidance/guidance-resources.md"
         ]},
     { "FAQs" = "faqs.md" }

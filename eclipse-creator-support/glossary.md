@@ -7,9 +7,9 @@ taxonomy:
 
 # Glossary
 
-**Eclipse Creator Desktop**: Desktop application for creating custom SOPs.
+**Eclipse Creator**: Desktop application for creating custom SOPs.
 
-**Eclipse Creator VR**: Virtual Reality application that pairs with Eclipse Creator Desktop to practice SOP training.
+**Eclipse XR**: Mixed Reality application that pairs with Eclipse Creator to practice SOP training.
 
 **SOPs**: Standard Operating Procedures.
 

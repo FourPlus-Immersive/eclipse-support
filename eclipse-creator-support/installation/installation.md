@@ -13,6 +13,6 @@ taxonomy:
 
 [Eclipse Creator Process Introduction](./installation/installation-process-introduction/)
 
-[Eclipse Creator Desktop](./installation/installation-of-eclipse-creator-desktop/)
+[Eclipse Creator Desktop](./installation/installation-of-eclipse-creator/)
 
-[Eclipse Creator VR](./installation/installation-of-eclipse-creator-vr/)
+[Eclipse Creator VR](./installation/installation-of-eclipse-xr/)

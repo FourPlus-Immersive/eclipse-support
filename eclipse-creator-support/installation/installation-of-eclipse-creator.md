@@ -1,11 +1,11 @@
 ---
-title: Eclipse Creator Desktop Installation
+title: Eclipse Creator Installation
 menu_order: 4
 taxonomy:
     doc_category: eclipse-creator-support
 ---
 
-# Eclipse Creator Desktop Installation
+# Eclipse Creator Installation
 
 Below is a guide for the installation of the Eclipse Creator desktop app.
 
@@ -29,7 +29,7 @@ On your desktop/laptop, navigate to the webpage [here](https://eclipsecreator.co
 
 >This Default collection will include six pre-made SOPs to get users started.
 
-For Eclipse Creator Desktop application guidance, follow [here](../application-guidance/eclipse-creator-desktop.md).
+For Eclipse Creator application guidance, follow [here](../application-guidance/eclipse-creator.md).
 
 ## App Updates
 
@@ -41,8 +41,8 @@ Periodically, you will see a prompt in the bottom-right corner of the applicatio
 
 Make sure to not tick the "Delete the application data" option when uninstalling or your Collections will be removed.
 
-![Eclipse Creator Desktop Updater](../_images/ec-install-new.png "Eclipse Creator updater")
+![Eclipse Creator Updater](../_images/ec-install-new.png "Eclipse Creator updater")
 
 ## Network
 
-Eclipse Creator requires an active internet connection to use. Connect both the desktop and VR applications to the same network to sync your data and experience your protocols in VR.
+Eclipse Creator requires an active internet connection to use. Connect both the desktop and XR applications to the same network to sync your data and experience your protocols in XR.

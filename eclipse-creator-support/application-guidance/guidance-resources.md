@@ -7,13 +7,14 @@ taxonomy:
 
 # Guidance Resources
 
-Pre-Installed in the Eclipse Creator app you will find a Eclipse Creator Tutorial module. This functions to establish both the scope of the application and some initial techniques for interacting with equipment.  
+Pre-Installed in Eclipse XR, you will find an Eclipse XR Tutorial module. This functions to establish both the scope of the application and some initial techniques for interacting with equipment.  
 
-Several resources to support your experience using Eclipse Creator can be found on the website: 
+Several resources to support your experience using the Eclipse suite can be found on the website: 
 
 [Eclipse Creator - Build your own virtual training courses](https://eclipsecreator.com/)
 
-These include: 
-- Tutorials (Eclipse Creator and Eclipse SOP Creator)
-- User Guidance pdf
+These include:
+
+- Tutorials (Eclipse XR and Eclipse Creator)
+- User Guidance
 - FAQs
